@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_27_地域密着型特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "大冠カーム小規模ケアハウス【地域密着型特定施設入居者生活介護（軽費老人ホーム）】大阪府高槻市須賀町65-10", "url": "https://www.kaigokensaku.mhlw.go.jp/27/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2790900274-00&ServiceCd=362&Type=search", "url2": "http://www.ojunkai.com" }, "geometry": { "type": "Point", "coordinates": [ 135.63489671653295, 34.840201556640807 ] } },
+{ "type": "Feature", "properties": { "内容": "れんげ荘プラネットハウス【地域密着型特定施設入居者生活介護（軽費老人ホーム）】大阪府高槻市三島江4丁目14番26号", "url": "https://www.kaigokensaku.mhlw.go.jp/27/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2790900308-00&ServiceCd=362&Type=search", "url2": "http://www.rengesou.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 135.610551723556426, 34.799342835829606 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス高槻あいわ【地域密着型特定施設入居者生活介護（軽費老人ホーム）】高槻市西之川原2丁目46番3号", "url": "https://www.kaigokensaku.mhlw.go.jp/27/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2790900498-00&ServiceCd=362&Type=search", "url2": "https://swc-aiwakai.jp/" }, "geometry": { "type": "Point", "coordinates": [ 135.5952129, 34.86584460000001 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスすずな園【地域密着型特定施設入居者生活介護（軽費老人ホーム）】大阪府守口市大宮通1-13-14", "url": "https://www.kaigokensaku.mhlw.go.jp/27/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2793200144-00&ServiceCd=362&Type=search", "url2": "http://www.hakuseikai.jp" }, "geometry": { "type": "Point", "coordinates": [ 135.574829995770301, 34.732447239968991 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスなずな園【地域密着型特定施設入居者生活介護（軽費老人ホーム）】大阪府守口市八雲北町2丁目26番1号", "url": "https://www.kaigokensaku.mhlw.go.jp/27/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2793200060-00&ServiceCd=362&Type=search", "url2": "http://hakuseikai.jp" }, "geometry": { "type": "Point", "coordinates": [ 135.562510652114838, 34.751132179779326 ] } }
+]
+}

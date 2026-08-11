@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_27_指定療養通所介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ナーシングデイやすらぎ【指定療養通所介護】大阪府大阪市住吉区帝塚山東五丁目７番１１-１０５号", "url": "https://www.kaigokensaku.mhlw.go.jp/27/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2792000461-00&ServiceCd=&Type=search", "url2": "http://heartfree.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 135.4980903, 34.613884 ] } },
+{ "type": "Feature", "properties": { "内容": "ペガサスレスパイトケアセンター【指定療養通所介護】大阪府堺市西区鳳北町10丁7番地ペガサスセンタービル1Ｆ", "url": "https://www.kaigokensaku.mhlw.go.jp/27/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2776302073-00&ServiceCd=&Type=search", "url2": "http://www.pegasus.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 135.461552799999936, 34.5448591 ] } }
+]
+}
